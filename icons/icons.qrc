@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons/shape">
+        <file alias="hexagoal_board.svg">shape_hexagoal_board.svg</file>
+        <file alias="hexagoal.svg">shape_hexagoal.svg</file>
+        <file alias="crown.svg">shape_crown.svg</file>
+        <file alias="circle.svg">shape_circle.svg</file>
+        <file alias="rectangle.svg">shape_rectangle.svg</file>
+        <file alias="animal.svg">shape_animal.svg</file>
+        <file alias="fruit.svg">shape_fruit.svg</file>
+        <file alias="multi.svg">shape_multi.svg</file>
+    </qresource>
+    <qresource prefix="/icons/info">
+        <file alias="help.svg">info_help.svg</file>
+        <file alias="back.svg">info_back.svg</file>
+        <file alias="error.svg">info_error.svg</file>
+        <file alias="right.svg">info_right.svg</file>
+    </qresource>
+</RCC>
